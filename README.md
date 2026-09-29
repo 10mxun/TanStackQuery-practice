@@ -1,6 +1,6 @@
-# 작은 블로그
+# TanStackQuery 실습 과제
 
-목록과 상세 보기, 글 추가·수정·삭제를 연습하는 아주 작은 React 예제입니다.
+목록과 상세 보기, 글 추가·수정·삭제 기능을 포함하여 블로그 형식으로 코드를 구성했습니다.
 
 ## 실행
 
@@ -14,5 +14,3 @@ npm run dev
 - TanStack Query: 목록·상세 캐싱, 로딩/오류 상태, 변경 후 동기화
 - Zustand: 선택한 글, 검색어, 수정 중인 글 ID
 - 컴포넌트 간 props 전달 없이 앱에서 필요한 상태에 직접 접근
-# TanStackQuery-practice
-# TanStackQuery-practice
